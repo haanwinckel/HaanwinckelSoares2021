@@ -25,7 +25,7 @@ The package is provided under the Creative Commons Attribution 4.0 International
 SUMMARY
 =========================================
 -- All of the raw data used by us is publicly available, though part of the data is not readily available for download on the internet.
--- This package includes cleaned versions of the data which are sufficient for replication.
+-- This package includes cleaned versions of the data which are sufficient for replication. To download them, please visit the official replication package at Zenodo: https://zenodo.org/record/4287679
 
 =========================================
 DETAILS FOR THE PME
