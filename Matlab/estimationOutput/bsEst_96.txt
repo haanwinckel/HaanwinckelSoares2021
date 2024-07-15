@@ -1,0 +1,44 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+DRAWING INITIAL SAMPLE
+Current time:
+30-Mar-2020 13:17:23
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STARTING ESTIMATION
+Current time:
+30-Mar-2020 13:17:23
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+*** SAMPLE #1/1 ***
+
+x = [1.566696665648196   -0.01757280635684886     0.6315309255540186     -4.232890802380131     0.3016655930448394      1.514682216068157     0.0580088489270596      1.754421541560044     0.8703427612678325      0.499368991610191      1.893519053315942   0.003937642559902204       1.97149396367282     -6.811023828514404    -0.1563851149559012      1.509080347621573   -0.08309889142654189    -0.5063474784942394     -1.916832267159649     0.5407799496439279      1.528703189392817    -0.3288360549480647    -0.2744963977687636     -18.86538500194821     0.1484355388197094      1.867398227696617    -0.0556488760024214       1.97029428610251     -7.192107425440216    -0.4508354820785889     0.1342419283620955     0.9010179200136184     -1.202924325648357     -1.174556392291442      6.199160943301402     -7.192761797132046      1.112493651694865     -11.56852700441887       16.6610526581012]
+PARAMETERS:
+ Common across regions: alpha=0.53351, coefRho2=2.4621, B_exp=0.30031, B_z_ref=0.30896, xi_cons=492.3358, xi_s=0.00075201, xi_rel_s=3.0419, xi_rel_inf=9.4592e-06, rhoGridMax2Min=17210887.1642
+ Recife: A=4.7908, T=1.9826, coefRho1_mu=0.63153, ut_unemp=-4.2329     0.30167
+ Salvador: A=4.548, T=2.0597, coefRho1_mu=1.7544, ut_unemp=0.87034     0.49937
+ Belo Horizonte: A=6.6427, T=2.0039, coefRho1_mu=1.9715, ut_unemp=-6.811    -0.15639
+ Rio de Janeiro: A=4.5226, T=1.9203, coefRho1_mu=-0.50635, ut_unemp=-1.9168     0.54078
+ Sao Paulo: A=4.6122, T=1.7198, coefRho1_mu=-0.2745, ut_unemp=-18.8654     0.148436
+ Porto Alegre: A=6.4714, T=1.9459, coefRho1_mu=1.9703, ut_unemp=-7.1921    -0.45084
+RESIDUALS:
+Recife: 0.12411    -0.11024       0.109    -0.14722   -0.074603     0.26046    -0.13332    0.051019   -0.070973    0.018071     0.01325    0.078764    -0.35603    -0.50686   -0.033805   -0.075942     0.46953     0.94357    -0.14093     0.11311
+Salvador: 0.1099    -0.13576    -0.02601     -0.2863    -0.14873     0.24614    -0.18465    0.080948   -0.064994   -0.079004    0.031282    -0.16277    -0.64122     -0.4639    0.024235   -0.047327     0.22018     0.35756    -0.32263    -0.25184
+Belo Horizonte: 0.11009    -0.08439    -0.14462   -0.079984  -0.0077917     0.12318   -0.091239     -0.0954   -0.061931    -0.04064     0.04177   0.0043896    -0.19434    -0.15852   -0.028202    -0.13359    0.087146     0.71692    -0.14675     0.37438
+Rio de Janeiro: -0.2305   -0.074086    0.087986    -0.11393   -0.086893   0.0035958   -0.070715   -0.093855   0.0011586    -0.10935    0.063365    -0.14253    -0.74868    -0.66472    0.078074     0.17182   -0.075209     0.15877  -0.0037139    0.068742
+Sao Paulo: 0.059429     -0.0688     0.17063    -0.07964    -0.11639   -0.011342    0.065686    -0.14953   -0.053556   -0.014465    0.099302  -0.0021483    -0.51055    -0.54344   0.0047312   0.0056227    0.038529     0.14774   -0.046549   -0.041402
+Porto Alegre: 0.17458    -0.20614     0.27912   -0.044401   -0.017526    -0.10367    -0.17265    0.077116    -0.04814     0.02326   -0.030338     0.13353    -0.51336    -0.12913    0.039709    -0.15525   -0.027912     0.68442   0.0054643    -0.19274
+Country target errors: -0.024763     0.25596   -0.026637
+Loss = 0.41031

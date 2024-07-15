@@ -1,0 +1,665 @@
+Recife:       solveForEquilibrium: starting with ini_rU=[1.6081     0.44109], ini_q=[0.46417      0.4696].
+
+Recife:             eqConditions: starting with rU=[1.608090704966423     0.4410909127903989], q=[0.4641717785489053     0.4695956697973613].
+Recife:             eqConditions: finished with rU_error=[-0.0629284399866179     0.1236810942359955], theta_error=[1.08083427187765     0.5740327125946147].
+Recife:             eqConditions: starting with rU=[1.608090705127232     0.4410909127903989], q=[0.4641717785489053     0.4695956697973613].
+Recife:             eqConditions: finished with rU_error=[-0.06292843997344089     0.1236810942317703], theta_error=[1.080834271603563     0.5740327126041882].
+Recife:             eqConditions: starting with rU=[1.608090704966423      0.441090912834508], q=[0.4641717785489053     0.4695956697973613].
+Recife:             eqConditions: finished with rU_error=[-0.06292843998771946     0.1236810942273925], theta_error=[1.080834271881443     0.5740327124690348].
+Recife:             eqConditions: starting with rU=[1.608090704966423     0.4410909127903989], q=[0.4641717785953225     0.4695956697973613].
+Recife:             eqConditions: finished with rU_error=[-0.06292844003838693     0.1236810942367743], theta_error=[1.080834271967153     0.5740327125956615].
+Recife:             eqConditions: starting with rU=[1.608090704966423     0.4410909127903989], q=[0.4641717785489053     0.4695956698443209].
+Recife:             eqConditions: finished with rU_error=[-0.06292843998634745     0.1236810942317316], theta_error=[1.080834271878051     0.5740327126531166].
+
+                                         Norm of      First-order   Trust-region
+ Iteration  Func-count     f(x)          step         optimality    radius
+     0          1         1.51697                          2.92               1
+Recife:             eqConditions: starting with rU=[2.375238013620626     0.8789129482529451], q=[0.4395999927680617     0.8624738801354572].
+Recife:             eqConditions: finished with rU_error=[0.02016697578102677    -0.1122834223717736], theta_error=[0.2175295184604757     0.2263091808975699].
+Recife:             eqConditions: starting with rU=[2.37523801385815     0.8789129482529451], q=[0.4395999927680617     0.8624738801354572].
+Recife:             eqConditions: finished with rU_error=[0.0201669757977383    -0.1122834223747611], theta_error=[0.2175295182918104     0.2263091808900504].
+Recife:             eqConditions: starting with rU=[2.375238013620626     0.8789129483408364], q=[0.4395999927680617     0.8624738801354572].
+Recife:             eqConditions: finished with rU_error=[0.02016697577888227    -0.1122834224200143], theta_error=[0.2175295184613155     0.2263091808280311].
+Recife:             eqConditions: starting with rU=[2.375238013620626     0.8789129482529451], q=[0.4395999928120217     0.8624738801354572].
+Recife:             eqConditions: finished with rU_error=[0.02016697572256376    -0.1122834223741853], theta_error=[0.217529518505887     0.2263091808977449].
+Recife:             eqConditions: starting with rU=[2.375238013620626     0.8789129482529451], q=[0.4395999927680617     0.8624738802217047].
+Recife:             eqConditions: finished with rU_error=[0.02016697578067728     -0.112283422388752], theta_error=[0.217529518459511     0.2263091809576829].
+     1          2        0.111549              1          0.377               1
+Recife:             eqConditions: starting with rU=[2.770327347825283     0.8066711634624241], q=[0.478291104913252     0.5462710783655489].
+Recife:             eqConditions: finished with rU_error=[-0.007732553575632295    -0.0174072957208371], theta_error=[0.01153299305109234    0.04199334361123808].
+Recife:             eqConditions: starting with rU=[2.770327348102316     0.8066711634624241], q=[0.478291104913252     0.5462710783655489].
+Recife:             eqConditions: finished with rU_error=[-0.007732553559966604   -0.01740729572260646], theta_error=[0.01153299290893428    0.04199334360556883].
+Recife:             eqConditions: starting with rU=[2.770327347825283     0.8066711635430912], q=[0.478291104913252     0.5462710783655489].
+Recife:             eqConditions: finished with rU_error=[-0.00773255357321867   -0.01740729574657185], theta_error=[0.0115329930554775    0.04199334354336459].
+Recife:             eqConditions: starting with rU=[2.770327347825283     0.8066711634624241], q=[0.4782911049610811     0.5462710783655489].
+Recife:             eqConditions: finished with rU_error=[-0.007732553640738438   -0.01740729572151123], theta_error=[0.01153299308937994    0.04199334361124674].
+Recife:             eqConditions: starting with rU=[2.770327347825283     0.8066711634624241], q=[0.478291104913252      0.546271078420176].
+Recife:             eqConditions: finished with rU_error=[-0.007732553574195666   -0.01740729573226119], theta_error=[0.0115329930522623    0.04199334365511076].
+     2          3      0.00225926       0.496702         0.0237             2.5
+Recife:             eqConditions: starting with rU=[2.778121984676728     0.7947419825115484], q=[0.4714692338312407     0.4852750784317744].
+Recife:             eqConditions: finished with rU_error=[0.001443602541575384   0.002038296534869422], theta_error=[0.001145285822679032   0.003322462236439394].
+Recife:             eqConditions: starting with rU=[2.77812198495454     0.7947419825115484], q=[0.4714692338312407     0.4852750784317744].
+Recife:             eqConditions: finished with rU_error=[0.001443602554810575   0.002038296528180883], theta_error=[0.001145285679738484    0.00332246222884236].
+Recife:             eqConditions: starting with rU=[2.778121984676728     0.7947419825910226], q=[0.4714692338312407     0.4852750784317744].
+Recife:             eqConditions: finished with rU_error=[0.001443602539677347   0.002038296505003201], theta_error=[0.001145285823333841   0.003322462165917806].
+Recife:             eqConditions: starting with rU=[2.778121984676728     0.7947419825115484], q=[0.4714692338783877     0.4852750784317744].
+Recife:             eqConditions: finished with rU_error=[0.001443602480110773   0.002038296539268014], theta_error=[0.001145285863058954   0.003322462238869006].
+Recife:             eqConditions: starting with rU=[2.778121984676728     0.7947419825115484], q=[0.4714692338312407     0.4852750784803019].
+Recife:             eqConditions: finished with rU_error=[0.00144360254125786   0.002038296521031713], theta_error=[0.001145285822508502   0.003322462275243909].
+     3          4     1.85891e-05       0.120228        0.00297             2.5
+Recife:             eqConditions: starting with rU=[2.782369290708027     0.7993933452990408], q=[0.4726428238623165     0.4863374142063239].
+Recife:             eqConditions: finished with rU_error=[3.940793031320666e-05  3.794970386883367e-05], theta_error=[3.947330018427841e-05  4.858596086587674e-05].
+Recife:             eqConditions: starting with rU=[2.782369290986264     0.7993933452990408], q=[0.4726428238623165     0.4863374142063239].
+Recife:             eqConditions: finished with rU_error=[3.940794788892532e-05  3.794970433235179e-05], theta_error=[3.947316109420562e-05  4.858595685797162e-05].
+Recife:             eqConditions: starting with rU=[2.782369290708027     0.7993933453789801], q=[0.4726428238623165     0.4863374142063239].
+Recife:             eqConditions: finished with rU_error=[3.940793135859266e-05   3.79496779244759e-05], theta_error=[3.947330339770794e-05  4.858589334699737e-05].
+Recife:             eqConditions: starting with rU=[2.782369290708027     0.7993933452990408], q=[0.4726428239095808     0.4863374142063239].
+Recife:             eqConditions: finished with rU_error=[3.940786920075823e-05  3.794970906767503e-05], theta_error=[3.94733409567749e-05  4.858596379997415e-05].
+Recife:             eqConditions: starting with rU=[2.782369290708027     0.7993933452990408], q=[0.4726428238623165     0.4863374142549577].
+Recife:             eqConditions: finished with rU_error=[3.940793185375213e-05  3.794969347226118e-05], theta_error=[3.947330159426166e-05  4.858600132640056e-05].
+     4          5      6.9119e-09     0.00688119       4.97e-05             2.5
+Recife:             eqConditions: starting with rU=[2.782528765051789     0.7994952707365388], q=[0.4726832231884885     0.4863822351311646].
+Recife:             eqConditions: finished with rU_error=[-7.276680864087837e-06 -1.231610251672954e-05], theta_error=[-6.15179439078517e-06  -6.30499589171496e-06].
+Recife:             eqConditions: starting with rU=[2.782528765330042     0.7994952707365388], q=[0.4726832231884885     0.4863822351311646].
+Recife:             eqConditions: finished with rU_error=[-7.276664940381039e-06 -1.231610472185451e-05], theta_error=[-6.151934954123917e-06 -6.305001341688765e-06].
+Recife:             eqConditions: starting with rU=[2.782528765051789     0.7994952708164884], q=[0.4726832231884885     0.4863822351311646].
+Recife:             eqConditions: finished with rU_error=[-7.276679210299619e-06  -1.23161273105632e-05], theta_error=[-6.151790753250452e-06 -6.305062878353418e-06].
+Recife:             eqConditions: starting with rU=[2.782528765051789     0.7994952707365388], q=[0.4726832232357569     0.4863822351311646].
+Recife:             eqConditions: finished with rU_error=[-7.276742088446753e-06 -1.231609743412854e-05], theta_error=[-6.151753770500257e-06 -6.304993060757269e-06].
+Recife:             eqConditions: starting with rU=[2.782528765051789     0.7994952707365388], q=[0.4726832231884885     0.4863822351798028].
+Recife:             eqConditions: finished with rU_error=[-7.276680380474687e-06 -1.231611459084903e-05], theta_error=[-6.151793957576146e-06 -6.304956361558034e-06].
+     5          6     2.82234e-10    0.000187984        8.1e-06             2.5
+Recife:             eqConditions: starting with rU=[2.78250131139662     0.7994691408180611], q=[0.4726758268602799     0.4863629385819812].
+Recife:             eqConditions: finished with rU_error=[1.384621825639698e-06  2.451134477499117e-06], theta_error=[1.092794408741327e-06  1.192263887173084e-06].
+Recife:             eqConditions: starting with rU=[2.78250131167487     0.7994691408180611], q=[0.4726758268602799     0.4863629385819812].
+Recife:             eqConditions: finished with rU_error=[1.38463736476524e-06  2.451131523861783e-06], theta_error=[1.092653596490578e-06  1.192258117344025e-06].
+Recife:             eqConditions: starting with rU=[2.78250131139662      0.799469140898008], q=[0.4726758268602799     0.4863629385819812].
+Recife:             eqConditions: finished with rU_error=[1.384621817202003e-06  2.451106741463427e-06], theta_error=[1.09279673110585e-06  1.192195464572166e-06].
+Recife:             eqConditions: starting with rU=[2.78250131139662     0.7994691408180611], q=[0.4726758269075475     0.4863629385819812].
+Recife:             eqConditions: finished with rU_error=[1.384560178063765e-06  2.451138846337741e-06], theta_error=[1.092834694293998e-06  1.192266362970429e-06].
+Recife:             eqConditions: starting with rU=[2.78250131139662     0.7994691408180611], q=[0.4726758268602799     0.4863629386306175].
+Recife:             eqConditions: finished with rU_error=[1.384623560252152e-06  2.451124475832955e-06], theta_error=[1.092795931523227e-06  1.192304508679243e-06].
+     6          7     1.05409e-11    5.46303e-05       1.47e-06             2.5
+Recife:             eqConditions: starting with rU=[2.782506315867281     0.7994741820079577], q=[0.4726772056431771      0.486366714632647].
+Recife:             eqConditions: finished with rU_error=[-2.368542859620959e-07 -4.082294994267599e-07], theta_error=[-1.955119354191126e-07 -2.053159230408497e-07].
+Recife:             eqConditions: starting with rU=[2.782506316145532     0.7994741820079577], q=[0.4726772056431771      0.486366714632647].
+Recife:             eqConditions: finished with rU_error=[-2.36840016487605e-07 -4.082345995692904e-07], theta_error=[-1.956538315806e-07 -2.053228018716879e-07].
+Recife:             eqConditions: starting with rU=[2.782506315867281     0.7994741820879051], q=[0.4726772056431771      0.486366714632647].
+Recife:             eqConditions: finished with rU_error=[-2.368531784036065e-07 -4.082553931583632e-07], theta_error=[-1.955086396110417e-07 -2.053833741966216e-07].
+Recife:             eqConditions: starting with rU=[2.782506315867281     0.7994741820079577], q=[0.4726772056904448      0.486366714632647].
+Recife:             eqConditions: finished with rU_error=[-2.369195453155726e-07 -4.082313359576872e-07], theta_error=[-1.954746559063025e-07 -2.053165850668393e-07].
+Recife:             eqConditions: starting with rU=[2.782506315867281     0.7994741820079577], q=[0.4726772056431771     0.4863667146812837].
+Recife:             eqConditions: finished with rU_error=[-2.368552833864612e-07 -4.082441641406476e-07], theta_error=[-1.95512690259747e-07 -2.052776685301794e-07].
+     7          8     3.03131e-13    1.05727e-05       2.79e-07             2.5
+Recife:             eqConditions: starting with rU=[2.782505585009754     0.7994734746864407], q=[0.4726770076297026       0.48636619045036].
+Recife:             eqConditions: finished with rU_error=[-4.713001544587314e-09 -8.156480824084156e-09], theta_error=[-3.864840780742895e-09 -4.089122707107151e-09].
+Recife:             eqConditions: starting with rU=[2.782505585288004     0.7994734746864407], q=[0.4726770076297026       0.48636619045036].
+Recife:             eqConditions: finished with rU_error=[-4.700997813245067e-09 -8.165455867015226e-09], theta_error=[-4.008619214346254e-09 -4.097961636695402e-09].
+Recife:             eqConditions: starting with rU=[2.782505585009754     0.7994734747663881], q=[0.4726770076297026       0.48636619045036].
+Recife:             eqConditions: finished with rU_error=[-4.714534984628926e-09 -8.186908262430848e-09], theta_error=[-3.86374676697443e-09  -4.15886902693785e-09].
+Recife:             eqConditions: starting with rU=[2.782505585009754     0.7994734746864407], q=[0.4726770076769703       0.48636619045036].
+Recife:             eqConditions: finished with rU_error=[-4.778657025639177e-09 -8.159015352227073e-09], theta_error=[-3.827875239004186e-09 -4.090125904632202e-09].
+Recife:             eqConditions: starting with rU=[2.782505585009754     0.7994734746864407], q=[0.4726770076297026     0.4863661904989966].
+Recife:             eqConditions: finished with rU_error=[-4.715897450324746e-09 -8.174390830895106e-09], theta_error=[-3.867184239503274e-09 -4.052518098873747e-09].
+     8          9     1.20398e-16    1.47945e-06       6.08e-09             2.5
+Recife:             eqConditions: starting with rU=[2.782505573136393      0.799473463066005], q=[0.4726770043982413      0.486366181821322].
+Recife:             eqConditions: finished with rU_error=[-9.237486331414857e-10 -1.585058861941491e-09], theta_error=[-7.686694614150724e-10 -8.020674124864513e-10].
+Recife:             eqConditions: starting with rU=[2.782505573414644      0.799473463066005], q=[0.4726770043982413      0.486366181821322].
+Recife:             eqConditions: finished with rU_error=[-9.102025799734292e-10 -1.591343723461591e-09], theta_error=[-9.11188124952389e-10 -8.095689674192386e-10].
+Recife:             eqConditions: starting with rU=[2.782505573136393     0.7994734631459524], q=[0.4726770043982413      0.486366181821322].
+Recife:             eqConditions: finished with rU_error=[-9.232135056436164e-10 -1.611908162502118e-09], theta_error=[-7.658712553038072e-10 -8.700198339539611e-10].
+Recife:             eqConditions: starting with rU=[2.782505573136393      0.799473463066005], q=[0.472677004445509      0.486366181821322].
+Recife:             eqConditions: finished with rU_error=[-9.844929316216167e-10 -1.579090080916501e-09], theta_error=[-7.276815816581461e-10 -7.988212313847498e-10].
+Recife:             eqConditions: starting with rU=[2.782505573136393      0.799473463066005], q=[0.4726770043982413     0.4863661818699586].
+Recife:             eqConditions: finished with rU_error=[-9.227716368798156e-10 -1.596341281384639e-09], theta_error=[-7.677855018428659e-10 -7.621033804028343e-10].
+     9         10     4.59989e-18    2.43103e-08       1.13e-09             2.5
+
+<a href = "matlab: helpview('optim','eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the value
+of the <a href = "matlab: helpview('optim','fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview('optim','last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg({'optim:fsolve:Exit3basic'},{'optim:fsolve:Exit3detailed','fsolve','5.789930e-17','2.220446e-16','4.599888e-18','1.000000e-05'},true,true);;">stopping criteria details</a>>
+Recife:       solveForEquilibrium: finished with fv = -9.2375e-10 -1.5851e-09 -7.6867e-10 -8.0207e-10, opt_rU=[2.7825     0.79947], opt_q=[0.47268     0.48637].
+
+Recife:             eqConditions: starting with rU=[2.782505573136393      0.799473463066005], q=[0.4726770043982413      0.486366181821322].
+Recife:             eqConditions: finished with rU_error=[4.900696782161873e-06  2.740816644086763e-06], theta_error=[-1.813964250918509e-06 -1.127340369433405e-05].
+Salvador:       solveForEquilibrium: starting with ini_rU=[1.7612     0.43314], ini_q=[1.3008      1.3503].
+
+Salvador:             eqConditions: starting with rU=[1.76117556016652     0.4331363633345801], q=[1.300778569587895      1.350306004057251].
+Salvador:             eqConditions: finished with rU_error=[0.07821958313552124     0.1782763750629936], theta_error=[1.262470035134832     0.7854038326473098].
+Salvador:             eqConditions: starting with rU=[1.761175560342638     0.4331363633345801], q=[1.300778569587895      1.350306004057251].
+Salvador:             eqConditions: finished with rU_error=[0.07821958313031541       0.17827637506013], theta_error=[1.262470034815782     0.7854038326534225].
+Salvador:             eqConditions: starting with rU=[1.76117556016652     0.4331363633778937], q=[1.300778569587895      1.350306004057251].
+Salvador:             eqConditions: finished with rU_error=[0.07821958313584365     0.1782763750467693], theta_error=[1.262470035134254     0.7854038324690549].
+Salvador:             eqConditions: starting with rU=[1.76117556016652     0.4331363633345801], q=[1.300778569717973      1.350306004057251].
+Salvador:             eqConditions: finished with rU_error=[0.0782195831004191      0.178276375064758], theta_error=[1.262470035236522     0.7854038326452548].
+Salvador:             eqConditions: starting with rU=[1.76117556016652     0.4331363633345801], q=[1.300778569587895      1.350306004192281].
+Salvador:             eqConditions: finished with rU_error=[0.07821958313563115      0.178276375063977], theta_error=[1.262470035136531     0.7854038327351642].
+
+                                         Norm of      First-order   Trust-region
+ Iteration  Func-count     f(x)          step         optimality    radius
+     0          1         2.24859                          3.99               1
+Salvador:             eqConditions: starting with rU=[2.687606143371845     0.8169641176355289], q=[1.334643179650867      2.577695656594544].
+Salvador:             eqConditions: finished with rU_error=[0.02229561789508239   -0.06250434097878443], theta_error=[0.2536077439634605     0.4218940598855452].
+Salvador:             eqConditions: starting with rU=[2.687606143640606     0.8169641176355289], q=[1.334643179650867      2.577695656594544].
+Salvador:             eqConditions: finished with rU_error=[0.02229561787923862   -0.06250434097951763], theta_error=[0.2536077437813391     0.4218940598763801].
+Salvador:             eqConditions: starting with rU=[2.687606143371845     0.8169641177172253], q=[1.334643179650867      2.577695656594544].
+Salvador:             eqConditions: finished with rU_error=[0.02229561789469692   -0.06250434103184399], theta_error=[0.253607743964801     0.4218940597757637].
+Salvador:             eqConditions: starting with rU=[2.687606143371845     0.8169641176355289], q=[1.334643179784331      2.577695656594544].
+Salvador:             eqConditions: finished with rU_error=[0.02229561784299605   -0.06250434097829272], theta_error=[0.2536077440146358     0.4218940598865795].
+Salvador:             eqConditions: starting with rU=[2.687606143371845     0.8169641176355289], q=[1.334643179650867      2.577695656852313].
+Salvador:             eqConditions: finished with rU_error=[0.02229561789490875   -0.06250434098804325], theta_error=[0.2536077439630695     0.4218940599744985].
+     1          2        0.246715              1          0.504               1
+Salvador:             eqConditions: starting with rU=[3.093430894710503     0.7908470154388356], q=[1.337228114718999       1.56357897602842].
+Salvador:             eqConditions: finished with rU_error=[-0.006569126301679606  -0.005759930322913775], theta_error=[0.02006926628909556    0.08732009180760714].
+Salvador:             eqConditions: starting with rU=[3.093430895019846     0.7908470154388356], q=[1.337228114718999       1.56357897602842].
+Salvador:             eqConditions: finished with rU_error=[-0.006569126324200703  -0.005759930325803131], theta_error=[0.02006926613854221     0.0873200918004482].
+Salvador:             eqConditions: starting with rU=[3.093430894710503     0.7908470155179204], q=[1.337228114718999       1.56357897602842].
+Salvador:             eqConditions: finished with rU_error=[-0.006569126302187644  -0.005759930364764632], theta_error=[0.02006926628999373    0.08732009172091582].
+Salvador:             eqConditions: starting with rU=[3.093430894710503     0.7908470154388356], q=[1.337228114852722       1.56357897602842].
+Salvador:             eqConditions: finished with rU_error=[-0.006569126360928657  -0.005759930322170037], theta_error=[0.02006926633006523    0.08732009180817513].
+Salvador:             eqConditions: starting with rU=[3.093430894710503     0.7908470154388356], q=[1.337228114718999      1.563578976184778].
+Salvador:             eqConditions: finished with rU_error=[-0.006569126302135242  -0.005759930332669416], theta_error=[0.0200692662887263     0.0873200918638799].
+     2          3       0.0081039       0.520341         0.0731             2.5
+Salvador:             eqConditions: starting with rU=[3.124308868853805     0.8032481525695951], q=[1.318640116928244      1.373248489251041].
+Salvador:             eqConditions: finished with rU_error=[-0.0007041423540208314 -0.0007748489325443142], theta_error=[-0.0003230946948462599   0.005510435067004993].
+Salvador:             eqConditions: starting with rU=[3.124308869166236     0.8032481525695951], q=[1.318640116928244      1.373248489251041].
+Salvador:             eqConditions: finished with rU_error=[-0.0007041423761640075 -0.0007748489355006161], theta_error=[-0.0003230948424048918   0.005510435059838503].
+Salvador:             eqConditions: starting with rU=[3.124308868853805     0.8032481526499199], q=[1.318640116928244      1.373248489251041].
+Salvador:             eqConditions: finished with rU_error=[-0.0007041423545688374 -0.0007748489729620944], theta_error=[-0.0003230946939912771   0.005510434988639012].
+Salvador:             eqConditions: starting with rU=[3.124308868853805     0.8032481525695951], q=[1.318640117060108      1.373248489251041].
+Salvador:             eqConditions: finished with rU_error=[-0.0007041424143352515 -0.0007748489334019615], theta_error=[-0.0003230946554217962   0.005510435067478392].
+Salvador:             eqConditions: starting with rU=[3.124308868853805     0.8032481525695951], q=[1.318640116928244      1.373248489388366].
+Salvador:             eqConditions: finished with rU_error=[-0.0007041423538018954 -0.0007748489415497772], theta_error=[-0.0003230946947593294   0.005510435116016454].
+     3          4     3.15655e-05       0.131849          0.004             2.5
+Salvador:             eqConditions: starting with rU=[3.122756752866591      0.803639201323097], q=[1.317285700360159      1.358867225229806].
+Salvador:             eqConditions: finished with rU_error=[-2.516344733916043e-06  1.060191691104606e-06], theta_error=[-5.264894822443189e-06  2.350459579769648e-05].
+Salvador:             eqConditions: starting with rU=[3.122756753178866      0.803639201323097], q=[1.317285700360159      1.358867225229806].
+Salvador:             eqConditions: finished with rU_error=[-2.516366078619825e-06  1.060189882440277e-06], theta_error=[-5.265041949309435e-06  2.350458874000871e-05].
+Salvador:             eqConditions: starting with rU=[3.122756752866591     0.8036392014034609], q=[1.317285700360159      1.358867225229806].
+Salvador:             eqConditions: finished with rU_error=[-2.516344999037301e-06  1.060151849308077e-06], theta_error=[-5.264893734313603e-06  2.350451803834197e-05].
+Salvador:             eqConditions: starting with rU=[3.122756752866591      0.803639201323097], q=[1.317285700491888      1.358867225229806].
+Salvador:             eqConditions: finished with rU_error=[-2.516404181029941e-06  1.060192119206604e-06], theta_error=[-5.26485485863315e-06  2.350459636524249e-05].
+Salvador:             eqConditions: starting with rU=[3.122756752866591      0.803639201323097], q=[1.317285700360159      1.358867225365692].
+Salvador:             eqConditions: finished with rU_error=[-2.516343867497994e-06  1.060183693946115e-06], theta_error=[-5.264894283540933e-06  2.350464442457678e-05].
+     4          5     5.87641e-10      0.0106005       1.88e-05             2.5
+Salvador:             eqConditions: starting with rU=[3.122742739090806     0.8036469011301662], q=[1.317281545011933      1.358821527368886].
+Salvador:             eqConditions: finished with rU_error=[2.456445620246939e-07  4.004592421003039e-07], theta_error=[1.54122645312782e-07  2.719218072932961e-08].
+Salvador:             eqConditions: starting with rU=[3.12274273940308     0.8036469011301662], q=[1.317281545011933      1.358821527368886].
+Salvador:             eqConditions: finished with rU_error=[2.456220644653229e-07  4.004555809178356e-07], theta_error=[1.539747560563853e-07  2.718496427966954e-08].
+Salvador:             eqConditions: starting with rU=[3.122742739090806      0.803646901210531], q=[1.317281545011933      1.358821527368886].
+Salvador:             eqConditions: finished with rU_error=[2.456441259290898e-07  4.004191750395236e-07], theta_error=[1.541235752355874e-07  2.711435320712496e-08].
+Salvador:             eqConditions: starting with rU=[3.122742739090806     0.8036469011301662], q=[1.317281545143661      1.358821527368886].
+Salvador:             eqConditions: finished with rU_error=[2.455848062687949e-07   4.00459213123483e-07], theta_error=[1.541623628753541e-07  2.719266345430071e-08].
+Salvador:             eqConditions: starting with rU=[3.122742739090806     0.8036469011301662], q=[1.317281545011933      1.358821527504769].
+Salvador:             eqConditions: finished with rU_error=[2.456447596443923e-07  4.004501769072633e-07], theta_error=[1.541227456769434e-07  2.724071257453886e-08].
+     5          6     2.45202e-13    3.53958e-05          3e-07             2.5
+Salvador:             eqConditions: starting with rU=[3.122743361668311      0.803647483590274], q=[1.317281985611628      1.358823066315385].
+Salvador:             eqConditions: finished with rU_error=[1.598279286696425e-09  2.145634225847459e-09], theta_error=[1.434717455950363e-09  6.086142700922892e-10].
+Salvador:             eqConditions: starting with rU=[3.122743361980586      0.803647483590274], q=[1.317281985611628      1.358823066315385].
+Salvador:             eqConditions: finished with rU_error=[1.577226349525063e-09  2.144312172269736e-09], theta_error=[1.287761675072829e-09  6.015765663391903e-10].
+Salvador:             eqConditions: starting with rU=[3.122743361668311     0.8036474836706389], q=[1.317281985611628      1.358823066315385].
+Salvador:             eqConditions: finished with rU_error=[1.597709520240187e-09  2.105339458324806e-09], theta_error=[1.435568330876436e-09  5.307745354343751e-10].
+Salvador:             eqConditions: starting with rU=[3.122743361668311      0.803647483590274], q=[1.317281985743356      1.358823066315385].
+Salvador:             eqConditions: finished with rU_error=[1.53819668113897e-09   2.14501749695728e-09], theta_error=[1.474291577707731e-09  6.091203097469133e-10].
+Salvador:             eqConditions: starting with rU=[3.122743361668311      0.803647483590274], q=[1.317281985611628      1.358823066451267].
+Salvador:             eqConditions: finished with rU_error=[1.597835197486575e-09  2.135501220301705e-09], theta_error=[1.434431240454614e-09  6.570914923287319e-10].
+     6          7     9.58707e-18    1.39986e-06       2.52e-09             2.5
+Salvador:             eqConditions: starting with rU=[3.122743366475533     0.8036474867434777], q=[1.317281988305119      1.358823073444879].
+Salvador:             eqConditions: finished with rU_error=[3.589040176166236e-11  5.890543608444432e-11], theta_error=[2.223643491561234e-11  3.896882816434299e-12].
+Salvador:             eqConditions: starting with rU=[3.122743366787808     0.8036474867434777], q=[1.317281988305119      1.358823073444879].
+Salvador:             eqConditions: finished with rU_error=[1.388889003806071e-11  5.601463737292534e-11], theta_error=[-1.252941084217696e-10 -3.220534949832654e-12].
+Salvador:             eqConditions: starting with rU=[3.122743366475533     0.8036474868238425], q=[1.317281988305119      1.358823073444879].
+Salvador:             eqConditions: finished with rU_error=[3.527445002760032e-11  1.850219977228562e-11], theta_error=[2.309552549206728e-11 -7.390676959317943e-11].
+Salvador:             eqConditions: starting with rU=[3.122743366475533     0.8036474867434777], q=[1.317281988436848      1.358823073444879].
+Salvador:             eqConditions: finished with rU_error=[-2.330491355451159e-11  5.973843641982057e-11], theta_error=[6.235811866872609e-11  4.494404848287559e-12].
+Salvador:             eqConditions: starting with rU=[3.122743366475533     0.8036474867434777], q=[1.317281988305119      1.358823073580761].
+Salvador:             eqConditions: finished with rU_error=[3.606048792903493e-11  4.977607215295166e-11], theta_error=[2.233768725545815e-11  5.244382705882344e-11].
+     7          8     5.26762e-21    7.03382e-09       4.27e-11             2.5
+
+<a href = "matlab: helpview('optim','eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the value of the <a href = "matlab: helpview('optim','fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview('optim','appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg({'optim:fsolve:Exit1basic','fsolve'},{'optim:fsolve:Exit1detailed','4.268216e-11','1.000000e-10','5.267616e-21','1.000000e-05'},true,true);;">stopping criteria details</a>>
+Salvador:       solveForEquilibrium: finished with fv = 3.589e-11  5.8905e-11  2.2236e-11  3.8969e-12, opt_rU=[3.1227     0.80365], opt_q=[1.3173      1.3588].
+
+Salvador:             eqConditions: starting with rU=[3.122743366475533     0.8036474867434777], q=[1.317281988305119      1.358823073444879].
+Salvador:             eqConditions: finished with rU_error=[2.634915244659197e-06  1.706948337454328e-06], theta_error=[-1.206967907507739e-06 -1.108181087283722e-05].
+Belo Horizonte:       solveForEquilibrium: starting with ini_rU=[2.1995     0.56804], ini_q=[0.48988     0.32055].
+
+Belo Horizonte:             eqConditions: starting with rU=[2.199528073380271      0.568040542261063], q=[0.4898808224874638     0.3205541433131723].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.09781066562743934     0.1819813108138923], theta_error=[1.139922719286487     0.3262600930909512].
+Belo Horizonte:             eqConditions: starting with rU=[2.199528073600224      0.568040542261063], q=[0.4898808224874638     0.3205541433131723].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.09781066561501151     0.1819813108075925], theta_error=[1.139922718988966     0.3262600930923192].
+Belo Horizonte:             eqConditions: starting with rU=[2.199528073380271      0.568040542317867], q=[0.4898808224874638     0.3205541433131723].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.09781066562879115     0.1819813108029524], theta_error=[1.139922719290467     0.3262600930239432].
+Belo Horizonte:             eqConditions: starting with rU=[2.199528073380271      0.568040542261063], q=[0.4898808225364519     0.3205541433131723].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.09781066569262942     0.1819813108144962], theta_error=[1.139922719371412     0.3262600930917079].
+Belo Horizonte:             eqConditions: starting with rU=[2.199528073380271      0.568040542261063], q=[0.4898808224874638     0.3205541433452277].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.09781066562699481     0.1819813108072454], theta_error=[1.139922719288013     0.3262600931316635].
+
+                                         Norm of      First-order   Trust-region
+ Iteration  Func-count     f(x)          step         optimality    radius
+     0          1         1.44855                          3.41               1
+Belo Horizonte:             eqConditions: starting with rU=[3.179627612026449      1.170777942720137], q=[0.4444896856109171     0.5701862175202866].
+Belo Horizonte:             eqConditions: finished with rU_error=[0.009725826188447417    -0.1603206969006958], theta_error=[0.2401334451044981     0.1952610232805101].
+Belo Horizonte:             eqConditions: starting with rU=[3.179627612344412      1.170777942720137], q=[0.4444896856109171     0.5701862175202866].
+Belo Horizonte:             eqConditions: finished with rU_error=[0.009725826204623811    -0.1603206969029782], theta_error=[0.2401334449258703     0.1952610232658287].
+Belo Horizonte:             eqConditions: starting with rU=[3.179627612026449      1.170777942837215], q=[0.4444896856109171     0.5701862175202866].
+Belo Horizonte:             eqConditions: finished with rU_error=[0.009725826187975795    -0.1603206969366715], theta_error=[0.2401334450998418     0.1952610231152558].
+Belo Horizonte:             eqConditions: starting with rU=[3.179627612026449      1.170777942720137], q=[0.4444896856553661     0.5701862175202866].
+Belo Horizonte:             eqConditions: finished with rU_error=[0.009725826119398207    -0.1603206969000508], theta_error=[0.2401334451499084     0.1952610232814145].
+Belo Horizonte:             eqConditions: starting with rU=[3.179627612026449      1.170777942720137], q=[0.4444896856109171     0.5701862175773054].
+Belo Horizonte:             eqConditions: finished with rU_error=[0.009725826188802245    -0.1603206969210011], theta_error=[0.2401334451056829     0.1952610233344945].
+     1          2        0.121588              1          0.452               1
+Belo Horizonte:             eqConditions: starting with rU=[3.673553076796879      1.059832611480604], q=[0.4651189998847944     0.3042995801894268].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.0005866377461418715 -0.0009933231157255307], theta_error=[0.01584022507587113   -0.03887556800857361].
+Belo Horizonte:             eqConditions: starting with rU=[3.673553077164235      1.059832611480604], q=[0.4651189998847944     0.3042995801894268].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.000586637731101014 -0.0009933231189307445], theta_error=[0.01584022492716786   -0.03887556801837244].
+Belo Horizonte:             eqConditions: starting with rU=[3.673553076796879      1.059832611586587], q=[0.4651189998847944     0.3042995801894268].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.0005866377478636053 -0.0009933231616729987], theta_error=[0.01584022507597549   -0.03887556804881542].
+Belo Horizonte:             eqConditions: starting with rU=[3.673553076796879      1.059832611480604], q=[0.4651189999313063     0.3042995801894268].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.0005866378220025226 -0.0009933231151755262], theta_error=[0.0158402251119405   -0.03887556800859659].
+Belo Horizonte:             eqConditions: starting with rU=[3.673553076796879      1.059832611480604], q=[0.4651189998847944     0.3042995802198567].
+Belo Horizonte:             eqConditions: finished with rU_error=[-0.0005866377458634275 -0.0009933231309442458], theta_error=[0.01584022507719651   -0.03887556797369218].
+     2          3      0.00176355       0.653561         0.0198             2.5
+Belo Horizonte:             eqConditions: starting with rU=[3.717801078243111      1.028858153658667], q=[0.4663157076067795     0.3298403844163776].
+Belo Horizonte:             eqConditions: finished with rU_error=[-1.855720103893788e-05  0.0001657786569129183], theta_error=[-8.391870453428041e-06 -0.0002643377668865021].
+Belo Horizonte:             eqConditions: starting with rU=[3.717801078614891      1.028858153658667], q=[0.4663157076067795     0.3298403844163776].
+Belo Horizonte:             eqConditions: finished with rU_error=[-1.855718614551805e-05  0.0001657786536592987], theta_error=[-8.392016996427998e-06 -0.0002643377770438216].
+Belo Horizonte:             eqConditions: starting with rU=[3.717801078243111      1.028858153761553], q=[0.4663157076067795     0.3298403844163776].
+Belo Horizonte:             eqConditions: finished with rU_error=[-1.85572027748826e-05  0.0001657786108166803], theta_error=[-8.39186989354257e-06 -0.0002643378039706157].
+Belo Horizonte:             eqConditions: starting with rU=[3.717801078243111      1.028858153658667], q=[0.4663157076534111     0.3298403844163776].
+Belo Horizonte:             eqConditions: finished with rU_error=[-1.855727725574852e-05  0.0001657786575266496], theta_error=[-8.39183487022499e-06 -0.0002643377663605895].
+Belo Horizonte:             eqConditions: starting with rU=[3.717801078243111      1.028858153658667], q=[0.4663157076067795     0.3298403844493616].
+Belo Horizonte:             eqConditions: finished with rU_error=[-1.855720067078792e-05  0.0001657786420312668], theta_error=[-8.391869205759406e-06  -0.000264337730864761].
+     3          4     9.77718e-08      0.0867496        0.00012             2.5
+Belo Horizonte:             eqConditions: starting with rU=[3.717786343678756      1.028953100608393], q=[0.4663048778173168     0.3301136221997928].
+Belo Horizonte:             eqConditions: finished with rU_error=[-5.325893512875268e-07 -2.403856125265946e-07], theta_error=[-3.53955032950104e-07 -1.101488008359297e-06].
+Belo Horizonte:             eqConditions: starting with rU=[3.717786344050535      1.028953100608393], q=[0.4663048778173168     0.3301136221997928].
+Belo Horizonte:             eqConditions: finished with rU_error=[-5.325741052608635e-07 -2.403887204849298e-07], theta_error=[-3.541013361418877e-07 -1.101497386413186e-06].
+Belo Horizonte:             eqConditions: starting with rU=[3.717786343678756      1.028953100711288], q=[0.4663048778173168     0.3301136221997928].
+Belo Horizonte:             eqConditions: finished with rU_error=[-5.325907515008055e-07 -2.404315935233825e-07], theta_error=[-3.53954241916199e-07  -1.10152431687105e-06].
+Belo Horizonte:             eqConditions: starting with rU=[3.717786343678756      1.028953100608393], q=[0.4663048778639473     0.3301136221997928].
+Belo Horizonte:             eqConditions: finished with rU_error=[-5.326654730630764e-07 -2.403849590493223e-07], theta_error=[-3.539193794699358e-07  -1.10148728182935e-06].
+Belo Horizonte:             eqConditions: starting with rU=[3.717786343678756      1.028953100608393], q=[0.4663048778173168     0.3301136222328042].
+Belo Horizonte:             eqConditions: finished with rU_error=[-5.325889507190595e-07 -2.404004861844555e-07], theta_error=[-3.539537541952242e-07  -1.10145192144806e-06].
+     4          5        1.68e-12     0.00083351       5.47e-07             2.5
+Belo Horizonte:             eqConditions: starting with rU=[3.717784800107358      1.028951965058339], q=[0.4663045267930055     0.3301142326479559].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.552908716703996e-09  1.868807331106837e-09], theta_error=[2.980171665001308e-09  1.076568278968182e-08].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784800479136      1.028951965058339], q=[0.4663045267930055     0.3301142326479559].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.567726197279853e-09   1.86552395753381e-09], theta_error=[2.833572709803889e-09  1.075533373473547e-08].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784800107358      1.028951965161234], q=[0.4663045267930055     0.3301142326479559].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.551117704920671e-09  1.822666906292625e-09], theta_error=[2.980694802090511e-09  1.072849276084753e-08].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784800107358      1.028951965058339], q=[0.466304526839636     0.3301142326479559].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.47633263789271e-09  1.869275179089414e-09], theta_error=[3.01551472681183e-09  1.076537858857307e-08].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784800107358      1.028951965058339], q=[0.4663045267930055     0.3301142326809673].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.553296850673405e-09   1.85392812213081e-09], theta_error=[2.981431768134257e-09    1.0801767924562e-08].
+     5          6     1.49003e-16    2.31874e-06       4.93e-09             2.5
+Belo Horizonte:             eqConditions: starting with rU=[3.717784812832163       1.02895197521972], q=[0.4663045297225785     0.3301142265006668].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.25712798346467e-11  1.719957509749293e-11], theta_error=[2.873878912623695e-11  9.640110931741219e-11].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784813203942       1.02895197521972], q=[0.4663045297225785     0.3301142265006668].
+Belo Horizonte:             eqConditions: finished with rU_error=[5.735900643344394e-11  1.390509929422024e-11], theta_error=[-1.178771524834588e-10   8.59861071234036e-11].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784812832163      1.028951975322615], q=[0.4663045297225785     0.3301142265006668].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.077183035633425e-11 -2.894351425197783e-11], theta_error=[2.925704123413198e-11  5.918288081829814e-11].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784812832163       1.02895197521972], q=[0.4663045297692089     0.3301142265006668].
+Belo Horizonte:             eqConditions: finished with rU_error=[-3.374767132413581e-11  1.777222813359458e-11], theta_error=[6.425437959478586e-11  9.668243983185221e-11].
+Belo Horizonte:             eqConditions: starting with rU=[3.717784812832163       1.02895197521972], q=[0.4663045297225785     0.3301142265336782].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.297184830193146e-11  2.326805415009403e-12], theta_error=[3.000444337430963e-11  1.325310972077887e-10].
+     6          7     1.22272e-20    2.22593e-08       4.64e-11             2.5
+
+<a href = "matlab: helpview('optim','eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the value of the <a href = "matlab: helpview('optim','fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview('optim','appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg({'optim:fsolve:Exit1basic','fsolve'},{'optim:fsolve:Exit1detailed','4.644714e-11','1.000000e-10','1.222723e-20','1.000000e-05'},true,true);;">stopping criteria details</a>>
+Belo Horizonte:       solveForEquilibrium: finished with fv = 4.2571e-11    1.72e-11  2.8739e-11  9.6401e-11, opt_rU=[3.7178       1.029], opt_q=[0.4663     0.33011].
+
+Belo Horizonte:             eqConditions: starting with rU=[3.717784812832163       1.02895197521972], q=[0.4663045297225785     0.3301142265006668].
+Belo Horizonte:             eqConditions: finished with rU_error=[4.723121389105245e-06  2.186243959423351e-06], theta_error=[-1.550658640270264e-06 -7.883668422192791e-06].
+Rio de Janeiro:       solveForEquilibrium: starting with ini_rU=[2.2994     0.62101], ini_q=[0.9801      1.0593].
+
+Rio de Janeiro:             eqConditions: starting with rU=[2.299362025856743     0.6210074761542738], q=[0.9800972379222693      1.059316969630822].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.01748580501543362     0.1291909038602942], theta_error=[1.176611625094147     0.4639013897133231].
+Rio de Janeiro:             eqConditions: starting with rU=[2.299362026086679     0.6210074761542738], q=[0.9800972379222693      1.059316969630822].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.01748580501536168     0.1291909038554087], theta_error=[1.176611624772236     0.4639013897085809].
+Rio de Janeiro:             eqConditions: starting with rU=[2.299362025856743     0.6210074762163745], q=[0.9800972379222693      1.059316969630822].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.01748580501492913     0.1291909038476379], theta_error=[1.176611625095564     0.4639013895858979].
+Rio de Janeiro:             eqConditions: starting with rU=[2.299362025856743     0.6210074761542738], q=[0.980097238020279      1.059316969630822].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.01748580497072849     0.1291909038607014], theta_error=[1.176611625173417     0.4639013897144839].
+Rio de Janeiro:             eqConditions: starting with rU=[2.299362025856743     0.6210074761542738], q=[0.9800972379222693      1.059316969736754].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.01748580501531283      0.129190903855848], theta_error=[1.176611625093085     0.4639013897519348].
+
+                                         Norm of      First-order   Trust-region
+ Iteration  Func-count     f(x)          step         optimality    radius
+     0          1         1.61662                          3.82               1
+Rio de Janeiro:             eqConditions: starting with rU=[3.333295798956538      1.081006290691384], q=[1.000857744341949       2.23048500135604].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-0.007581662921170906    -0.1330200166259834], theta_error=[0.2681162096537448     0.2556651610007994].
+Rio de Janeiro:             eqConditions: starting with rU=[3.333295799289867      1.081006290691384], q=[1.000857744341949       2.23048500135604].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-0.007581662928579647    -0.1330200166271683], theta_error=[0.268116209462665     0.2556651609861806].
+Rio de Janeiro:             eqConditions: starting with rU=[3.333295798956538      1.081006290799485], q=[1.000857744341949       2.23048500135604].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-0.007581662921878785    -0.1330200166894907], theta_error=[0.2681162096554237     0.2556651609586009].
+Rio de Janeiro:             eqConditions: starting with rU=[3.333295798956538      1.081006290691384], q=[1.000857744442035       2.23048500135604].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-0.00758166298012819    -0.1330200166259123], theta_error=[0.268116209697125     0.2556651610016814].
+Rio de Janeiro:             eqConditions: starting with rU=[3.333295798956538      1.081006290691384], q=[1.000857744341949      2.230485001579089].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-0.00758166292020146    -0.1330200166392173], theta_error=[0.268116209654377     0.2556651610511667].
+     1          2        0.155003              1          0.548               1
+Rio de Janeiro:             eqConditions: starting with rU=[3.79317770966735     0.9809482598465072], q=[0.9645108209254981       1.28582620588036].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.002823375752030177   -0.01441405576960908], theta_error=[0.02805723404118354     0.0700518015108893].
+Rio de Janeiro:             eqConditions: starting with rU=[3.793177710046668     0.9809482598465072], q=[0.9645108209254981       1.28582620588036].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.002823375740720557   -0.01441405577325239], theta_error=[0.02805723388462678    0.07005180149628498].
+Rio de Janeiro:             eqConditions: starting with rU=[3.79317770966735     0.9809482599446021], q=[0.9645108209254981       1.28582620588036].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.002823375750640622   -0.01441405581307453], theta_error=[0.02805723404209703    0.07005180145589107].
+Rio de Janeiro:             eqConditions: starting with rU=[3.79317770966735     0.9809482598465072], q=[0.9645108210219492       1.28582620588036].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.002823375688220775    -0.0144140557700928], theta_error=[0.02805723407553695    0.07005180151056845].
+Rio de Janeiro:             eqConditions: starting with rU=[3.79317770966735     0.9809482598465072], q=[0.9645108209254981      1.285826206008943].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.002823375752218027   -0.01441405578070321], theta_error=[0.02805723404128591    0.07005180154183455].
+     2          3       0.0059102       0.575244          0.054             2.5
+Rio de Janeiro:             eqConditions: starting with rU=[3.86191543190163     0.9951839818666655], q=[0.9648598174838058      1.060896525085217].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.0001937416954103099 -2.742724639381855e-05], theta_error=[0.0004421735124333637   0.005561112947211955].
+Rio de Janeiro:             eqConditions: starting with rU=[3.861915432287822     0.9951839818666655], q=[0.9648598174838058      1.060896525085217].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.0001937416837334283 -2.742724963500365e-05], theta_error=[0.0004421733599873079    0.00556111293330952].
+Rio de Janeiro:             eqConditions: starting with rU=[3.86191543190163     0.9951839819661839], q=[0.9648598174838058      1.060896525085217].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.0001937416948916137 -2.742728690741103e-05], theta_error=[0.0004421735135136107   0.005561112898871956].
+Rio de Janeiro:             eqConditions: starting with rU=[3.86191543190163     0.9951839818666655], q=[0.9648598175802918      1.060896525085217].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.0001937416307797868 -2.742724679494213e-05], theta_error=[0.0004421735457924569   0.005561112946760538].
+Rio de Janeiro:             eqConditions: starting with rU=[3.86191543190163     0.9951839818666655], q=[0.9648598174838058      1.060896525191307].
+Rio de Janeiro:             eqConditions: finished with rU_error=[0.0001937416956705462 -2.742725689197645e-05], theta_error=[0.0004421735126005633    0.00556111297358175].
+     3          4     3.11598e-05       0.193661        0.00267             2.5
+Rio de Janeiro:             eqConditions: starting with rU=[3.863203305861137     0.9987815790958491], q=[0.9650074581173778      1.045838245955642].
+Rio de Janeiro:             eqConditions: finished with rU_error=[6.935281176012609e-06  2.309419401824719e-06], theta_error=[6.925982174887935e-06  5.251692997410018e-05].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863203306247458     0.9987815790958491], q=[0.9650074581173778      1.045838245955642].
+Rio de Janeiro:             eqConditions: finished with rU_error=[6.935269841079617e-06  2.309416663348607e-06], theta_error=[6.925829865167543e-06  5.251691671914749e-05].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863203305861137     0.9987815791957273], q=[0.9650074581173778      1.045838245955642].
+Rio de Janeiro:             eqConditions: finished with rU_error=[6.935279810438288e-06  2.309377642228938e-06], theta_error=[6.925983020877879e-06  5.251688083518502e-05].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863203305861137     0.9987815790958491], q=[0.9650074582138785      1.045838245955642].
+Rio de Janeiro:             eqConditions: finished with rU_error=[6.93521610894976e-06  2.309418491441839e-06], theta_error=[6.926015363895033e-06  5.251692870000824e-05].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863203305861137     0.9987815790958491], q=[0.9650074581173778      1.045838246060226].
+Rio de Janeiro:             eqConditions: finished with rU_error=[6.935280807862654e-06  2.309408121181633e-06], theta_error=[6.925982128258568e-06  5.251695481311991e-05].
+     4          5     2.85943e-09      0.0147486       2.68e-05             2.5
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229757815323     0.9988212045630819], q=[0.9650164926110592      1.045703540072801].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-3.408793185499803e-07 -4.419794957799539e-07], theta_error=[-9.947112888930576e-08 -6.429091934379016e-07].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229758201646     0.9988212045630819], q=[0.9650164926110592      1.045703540072801].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-3.408896520618043e-07 -4.419809680467068e-07], theta_error=[-9.962310243416539e-08 -6.429205366975665e-07].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229757815323      0.998821204662964], q=[0.9650164926110592      1.045703540072801].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-3.408795032910916e-07 -4.420197246002289e-07], theta_error=[-9.946994772302986e-08 -6.429560920340194e-07].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229757815323     0.9988212045630819], q=[0.9650164927075608      1.045703540072801].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-3.409437612234001e-07 -4.419796352239658e-07], theta_error=[-9.943770085119041e-08 -6.429092620496846e-07].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229757815323     0.9988212045630819], q=[0.9650164926110592      1.045703540177372].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-3.408789646108801e-07 -4.419898577134873e-07], theta_error=[-9.947094214979302e-08 -6.428829824045579e-07].
+     5          6     7.34771e-13    0.000135279       4.79e-07             2.5
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229050982091     0.9988200413510148], q=[0.9650160152146969      1.045703841848251].
+Rio de Janeiro:             eqConditions: finished with rU_error=[4.817354959385511e-09  6.137234165315419e-09], theta_error=[1.557729500945015e-09  9.175607162958954e-09].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229051368414     0.9988200413510148], q=[0.9650160152146969      1.045703841848251].
+Rio de Janeiro:             eqConditions: finished with rU_error=[4.806072873009271e-09  6.134559638049097e-09], theta_error=[1.405437988211133e-09  9.162452574429381e-09].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229050982091     0.9988200414508968], q=[0.9650160152146969      1.045703841848251].
+Rio de Janeiro:             eqConditions: finished with rU_error=[4.81721063039231e-09  6.097052307474371e-09], theta_error=[1.558929652034635e-09  9.128789502099721e-09].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229050982091     0.9988200413510148], q=[0.9650160153111986      1.045703841848251].
+Rio de Janeiro:             eqConditions: finished with rU_error=[4.752469973112738e-09  6.136563923675453e-09], theta_error=[1.590966469677824e-09  9.174681236956417e-09].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229050982091     0.9988200413510148], q=[0.9650160152146969      1.045703841952821].
+Rio de Janeiro:             eqConditions: finished with rU_error=[4.817579224436486e-09  6.126711138421115e-09], theta_error=[1.557866280421649e-09  9.201567285899159e-09].
+     6          7     1.47491e-16    1.31063e-06       6.75e-09             2.5
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229061237307     0.9988200575115448], q=[0.9650160218840002      1.045703837064872].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-2.347233518662506e-11 -3.145117499769867e-11], theta_error=[-5.222600130139199e-12 -4.437761269571183e-11].
+Rio de Janeiro:             eqConditions: starting with rU=[3.86322906162363     0.9988200575115448], q=[0.9650160218840002      1.045703837064872].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-3.467892639719139e-11  -3.40243389018724e-11], theta_error=[-1.574876895560351e-10  -5.73822100946586e-11].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229061237307     0.9988200576114268], q=[0.9650160218840002      1.045703837064872].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-2.426281398015817e-11 -7.246170330432733e-11], theta_error=[-4.219291582785445e-12 -9.242140386334086e-11].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229061237307     0.9988200575115448], q=[0.9650160219805017      1.045703837064872].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-8.79341044424109e-11  -3.15893977642645e-11], theta_error=[2.815747635054322e-11 -4.449862700539597e-11].
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229061237307     0.9988200575115448], q=[0.9650160218840002      1.045703837169443].
+Rio de Janeiro:             eqConditions: finished with rU_error=[-2.265920784338959e-11 -4.122135965900497e-11], theta_error=[-4.899192163065891e-12 -1.729660858984516e-11].
+     7          8     3.53677e-21    1.83716e-08       3.44e-11             2.5
+
+<a href = "matlab: helpview('optim','eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the value of the <a href = "matlab: helpview('optim','fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview('optim','appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg({'optim:fsolve:Exit1basic','fsolve'},{'optim:fsolve:Exit1detailed','3.435213e-11','1.000000e-10','3.536775e-21','1.000000e-05'},true,true);;">stopping criteria details</a>>
+Rio de Janeiro:       solveForEquilibrium: finished with fv = -2.3472e-11 -3.1451e-11 -5.2226e-12 -4.4378e-11, opt_rU=[3.8632     0.99882], opt_q=[0.96502      1.0457].
+
+Rio de Janeiro:             eqConditions: starting with rU=[3.863229061237307     0.9988200575115448], q=[0.9650160218840002      1.045703837064872].
+Rio de Janeiro:             eqConditions: finished with rU_error=[2.895972305960726e-06  1.643900194747694e-06], theta_error=[-1.152954653527161e-06 -6.977642289296426e-06].
+Sao Paulo:       solveForEquilibrium: starting with ini_rU=[3.0503     0.67497], ini_q=[0.48187     0.42624].
+
+Sao Paulo:             eqConditions: starting with rU=[3.050337859295177     0.6749691867531736], q=[0.4818651779727408     0.4262369406860558].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.2599030111928453     0.1130078942835687], theta_error=[0.7600201714447248     0.3868256016249167].
+Sao Paulo:             eqConditions: starting with rU=[3.05033785960021     0.6749691867531736], q=[0.4818651779727408     0.4262369406860558].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.2599030111389609     0.1130078942771668], theta_error=[0.7600201712271941     0.3868256016179856].
+Sao Paulo:             eqConditions: starting with rU=[3.050337859295177     0.6749691868206705], q=[0.4818651779727408     0.4262369406860558].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.2599030111960676     0.1130078942700302], theta_error=[0.7600201714452484     0.3868256015174194].
+Sao Paulo:             eqConditions: starting with rU=[3.050337859295177     0.6749691867531736], q=[0.4818651780209273     0.4262369406860558].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.2599030113480389     0.1130078942841028], theta_error=[0.7600201715364727     0.3868256016258291].
+Sao Paulo:             eqConditions: starting with rU=[3.050337859295177     0.6749691867531736], q=[0.4818651779727408     0.4262369407286795].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.2599030111940417     0.1130078942724909], theta_error=[0.7600201714446042     0.3868256016735412].
+
+                                         Norm of      First-order   Trust-region
+ Iteration  Func-count     f(x)          step         optimality    radius
+     0          1        0.807585                          1.83               1
+Sao Paulo:             eqConditions: starting with rU=[4.20892799286256      1.069224260343773], q=[0.4504997257416117     0.5575849048684491].
+Sao Paulo:             eqConditions: finished with rU_error=[0.03608665858810767   -0.06593438580384747], theta_error=[0.1445813963177902     0.1190392874945541].
+Sao Paulo:             eqConditions: starting with rU=[4.208927993283453      1.069224260343773], q=[0.4504997257416117     0.5575849048684491].
+Sao Paulo:             eqConditions: finished with rU_error=[0.03608665865418992   -0.06593438580661415], theta_error=[0.1445813961738416     0.1190392874813093].
+Sao Paulo:             eqConditions: starting with rU=[4.20892799286256      1.069224260450696], q=[0.4504997257416117     0.5575849048684491].
+Sao Paulo:             eqConditions: finished with rU_error=[0.03608665858420324   -0.06593438585233002], theta_error=[0.1445813963178006     0.1190392874341311].
+Sao Paulo:             eqConditions: starting with rU=[4.20892799286256      1.069224260343773], q=[0.4504997257866618     0.5575849048684491].
+Sao Paulo:             eqConditions: finished with rU_error=[0.03608665842532055   -0.06593438580348887], theta_error=[0.1445813963752527     0.1190392874926733].
+Sao Paulo:             eqConditions: starting with rU=[4.20892799286256      1.069224260343773], q=[0.4504997257416117     0.5575849049242076].
+Sao Paulo:             eqConditions: finished with rU_error=[0.03608665858761739   -0.06593438582308053], theta_error=[0.1445813963184566     0.1190392875415649].
+     1          2       0.0407237       0.626069          0.198               1
+Sao Paulo:             eqConditions: starting with rU=[4.792212179927222      1.028858536635076], q=[0.4863486133853691     0.4286169821896043].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.01072326774076426  -0.005979945421789923], theta_error=[0.006968536914047085     0.0114197945144292].
+Sao Paulo:             eqConditions: starting with rU=[4.792212180406443      1.028858536635076], q=[0.4863486133853691     0.4286169821896043].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.01072326767728171  -0.005979945424521738], theta_error=[0.006968536785568968    0.01141979450494524].
+Sao Paulo:             eqConditions: starting with rU=[4.792212179927222      1.028858536737962], q=[0.4863486133853691     0.4286169821896043].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.01072326774377697  -0.005979945460710789], theta_error=[0.006968536914056855    0.01141979445453889].
+Sao Paulo:             eqConditions: starting with rU=[4.792212179927222      1.028858536635076], q=[0.486348613434004     0.4286169821896043].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.01072326791909628   -0.00597994542061886], theta_error=[0.006968536964467642    0.01141979451535247].
+Sao Paulo:             eqConditions: starting with rU=[4.792212179927222      1.028858536635076], q=[0.4863486133853691      0.428616982232466].
+Sao Paulo:             eqConditions: finished with rU_error=[-0.01072326774016652  -0.005979945438099099], theta_error=[0.006968536914930823    0.01141979455396469].
+     2          3      0.00032972       0.305587         0.0227            1.57
+Sao Paulo:             eqConditions: starting with rU=[4.807948825269801      1.026334094830632], q=[0.4839661014641062     0.4152407417082967].
+Sao Paulo:             eqConditions: finished with rU_error=[-6.769105216974936e-05  -7.66413463249016e-05], theta_error=[2.122681152338934e-05  8.276992393763116e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.807948825750596      1.026334094830632], q=[0.4839661014641062     0.4152407417082967].
+Sao Paulo:             eqConditions: finished with rU_error=[-6.769099143077995e-05 -7.664135023577323e-05], theta_error=[2.122668376114412e-05  8.276991151223712e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.807948825269801      1.026334094933265], q=[0.4839661014641062     0.4152407417082967].
+Sao Paulo:             eqConditions: finished with rU_error=[-6.769105873427606e-05 -7.664138572427426e-05], theta_error=[2.122681141858429e-05  8.276986037092371e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.807948825269801      1.026334094830632], q=[0.4839661015125028     0.4152407417082967].
+Sao Paulo:             eqConditions: finished with rU_error=[-6.769123319472214e-05 -7.664134635243514e-05], theta_error=[2.122686143812835e-05  8.276992153177787e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.807948825269801      1.026334094830632], q=[0.4839661014641062     0.4152407417498208].
+Sao Paulo:             eqConditions: finished with rU_error=[-6.769105522153041e-05 -7.664136373763952e-05], theta_error=[2.122681225213974e-05  8.276995881684179e-05].
+     3          4     1.77574e-08      0.0323438       0.000131            1.57
+Sao Paulo:             eqConditions: starting with rU=[4.807965643186373      1.026283136899788], q=[0.4839521245315866     0.4151043410638413].
+Sao Paulo:             eqConditions: finished with rU_error=[-1.50002628371837e-05 -5.648156397253246e-06], theta_error=[-6.18540218155772e-07 -1.549445997006682e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.80796564366717      1.026283136899788], q=[0.4839521245315866     0.4151043410638413].
+Sao Paulo:             eqConditions: finished with rU_error=[-1.500020048617046e-05 -5.648159694393584e-06], theta_error=[-6.186679218922464e-07 -1.549447072035637e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.807965643186373      1.026283137002417], q=[0.4839521245315866     0.4151043410638413].
+Sao Paulo:             eqConditions: finished with rU_error=[-1.500026543510558e-05 -5.648194289387121e-06], theta_error=[-6.185401696390258e-07  -1.54945194404954e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.807965643186373      1.026283136899788], q=[0.4839521245799819     0.4151043410638413].
+Sao Paulo:             eqConditions: finished with rU_error=[-1.500044207158879e-05 -5.648155752879802e-06], theta_error=[-6.184902318073782e-07 -1.549446052795389e-05].
+Sao Paulo:             eqConditions: starting with rU=[4.807965643186373      1.026283136899788], q=[0.4839521245315866     0.4151043411053518].
+Sao Paulo:             eqConditions: finished with rU_error=[-1.500026434175794e-05 -5.648173232009057e-06], theta_error=[-6.185394144653245e-07 -1.549442350212704e-05].
+     4          5      4.9737e-10    0.000333541       2.66e-05            1.57
+Sao Paulo:             eqConditions: starting with rU=[4.80794544386694      1.026263519135882], q=[0.4839474607785267     0.4151084627242347].
+Sao Paulo:             eqConditions: finished with rU_error=[8.032660048229445e-08   2.80519270035029e-08], theta_error=[5.49067191712993e-09  8.345984747748503e-08].
+Sao Paulo:             eqConditions: starting with rU=[4.807945444347734      1.026263519135882], q=[0.4839474607785267     0.4151084627242347].
+Sao Paulo:             eqConditions: finished with rU_error=[8.038505594498702e-08  2.804717924576039e-08], theta_error=[5.362793542573741e-09  8.344507129720569e-08].
+Sao Paulo:             eqConditions: starting with rU=[4.80794544386694      1.026263519238508], q=[0.4839474607785267     0.4151084627242347].
+Sao Paulo:             eqConditions: finished with rU_error=[8.032251752609909e-08  2.801348153447236e-08], theta_error=[5.490659482632054e-09  8.339884716157542e-08].
+Sao Paulo:             eqConditions: starting with rU=[4.80794544386694      1.026263519135882], q=[0.4839474608269215     0.4151084627242347].
+Sao Paulo:             eqConditions: finished with rU_error=[8.014598584793475e-08  2.805207688361122e-08], theta_error=[5.540568892570263e-09  8.345785196262057e-08].
+Sao Paulo:             eqConditions: starting with rU=[4.80794544386694      1.026263519135882], q=[0.4839474607785267     0.4151084627657455].
+Sao Paulo:             eqConditions: finished with rU_error=[8.032638731947372e-08  2.803560339437183e-08], theta_error=[5.491496812837227e-09  8.349765789894548e-08].
+     5          6      1.4235e-14     2.3969e-05       1.44e-07            1.57
+Sao Paulo:             eqConditions: starting with rU=[4.807945556487877      1.026263615965025], q=[0.4839474849706589     0.4151084391786491].
+Sao Paulo:             eqConditions: finished with rU_error=[3.198749709554249e-09  1.207633770761163e-09], theta_error=[1.226094781259235e-10  3.307666363028261e-09].
+Sao Paulo:             eqConditions: starting with rU=[4.807945556968672      1.026263615965025], q=[0.4839474849706589     0.4151084391786491].
+Sao Paulo:             eqConditions: finished with rU_error=[3.259343905881451e-09  1.203681598838102e-09], theta_error=[-5.176192807709867e-12  3.295094641586616e-09].
+Sao Paulo:             eqConditions: starting with rU=[4.807945556487877      1.026263616067651], q=[0.4839474849706589     0.4151084391786491].
+Sao Paulo:             eqConditions: finished with rU_error=[3.196874764910262e-09  1.170031183050924e-09], theta_error=[1.226665435893892e-10  3.248945557032812e-09].
+Sao Paulo:             eqConditions: starting with rU=[4.807945556487877      1.026263615965025], q=[0.4839474850190537     0.4151084391786491].
+Sao Paulo:             eqConditions: finished with rU_error=[3.019509087209826e-09  1.208293021193185e-09], theta_error=[1.725730669477343e-10  3.307101481553332e-09].
+Sao Paulo:             eqConditions: starting with rU=[4.807945556487877      1.026263615965025], q=[0.4839474849706589       0.41510843922016].
+Sao Paulo:             eqConditions: finished with rU_error=[3.199772891093744e-09  1.191755139018369e-09], theta_error=[1.235087587758699e-10   3.34675132052098e-09].
+     6          7     2.26461e-17    1.23155e-07       5.68e-09            1.57
+Sao Paulo:             eqConditions: starting with rU=[4.807945560696634        1.0262636201076], q=[0.4839474859513309     0.4151084383121414].
+Sao Paulo:             eqConditions: finished with rU_error=[2.211297811527402e-11  7.787326339325773e-12], theta_error=[1.66955338443131e-12  2.277733557320971e-11].
+Sao Paulo:             eqConditions: starting with rU=[4.807945561177429        1.0262636201076], q=[0.4839474859513309     0.4151084383121414].
+Sao Paulo:             eqConditions: finished with rU_error=[8.453238109495942e-11  4.544586929000616e-12], theta_error=[-1.260705984051924e-10  1.208255717699558e-11].
+Sao Paulo:             eqConditions: starting with rU=[4.807945560696634      1.026263620210226], q=[0.4839474859513309     0.4151084383121414].
+Sao Paulo:             eqConditions: finished with rU_error=[1.943245564461904e-11 -3.011924043505587e-11], theta_error=[1.696198737022314e-12 -3.677957938208465e-11].
+Sao Paulo:             eqConditions: starting with rU=[4.807945560696634        1.0262636201076], q=[0.4839474859997256     0.4151084383121414].
+Sao Paulo:             eqConditions: finished with rU_error=[-1.575113373064596e-10  8.296696663023795e-12], theta_error=[5.162603677888455e-11   2.18165485676991e-11].
+Sao Paulo:             eqConditions: starting with rU=[4.807945560696634        1.0262636201076], q=[0.4839474859513309     0.4151084383536522].
+Sao Paulo:             eqConditions: finished with rU_error=[2.575983870656273e-11 -7.103651000761602e-12], theta_error=[2.674305221717077e-12  6.457723245034686e-11].
+     7          8     1.07122e-21     5.0521e-09       3.91e-11            1.57
+
+<a href = "matlab: helpview('optim','eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the value of the <a href = "matlab: helpview('optim','fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview('optim','appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg({'optim:fsolve:Exit1basic','fsolve'},{'optim:fsolve:Exit1detailed','3.906541e-11','1.000000e-10','1.071221e-21','1.000000e-05'},true,true);;">stopping criteria details</a>>
+Sao Paulo:       solveForEquilibrium: finished with fv = 2.2113e-11  7.7873e-12  1.6696e-12  2.2777e-11, opt_rU=[4.8079      1.0263], opt_q=[0.48395     0.41511].
+
+Sao Paulo:             eqConditions: starting with rU=[4.807945560696634        1.0262636201076], q=[0.4839474859513309     0.4151084383121414].
+Sao Paulo:             eqConditions: finished with rU_error=[1.083205432372836e-05  2.482987176755103e-06], theta_error=[-1.251956918912889e-06 -7.301678208171403e-06].
+Porto Alegre:       solveForEquilibrium: starting with ini_rU=[2.4937     0.71172], ini_q=[0.51157     0.31854].
+
+Porto Alegre:             eqConditions: starting with rU=[2.493652168952484     0.7117203041982965], q=[0.5115659092020743     0.3185421898820073].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.0745704369022091     0.1433146339889131], theta_error=[1.288807050913825     0.1265583704678144].
+Porto Alegre:             eqConditions: starting with rU=[2.493652169201849     0.7117203041982965], q=[0.5115659092020743     0.3185421898820073].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.07457043688176324     0.1433146339809026], theta_error=[1.28880705059253     0.1265583704617548].
+Porto Alegre:             eqConditions: starting with rU=[2.493652168952484     0.7117203042694685], q=[0.5115659092020743     0.3185421898820073].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.07457043690407028     0.1433146339686194], theta_error=[1.288807050916885     0.1265583704397457].
+Porto Alegre:             eqConditions: starting with rU=[2.493652168952484     0.7117203041982965], q=[0.511565909253231     0.3185421898820073].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.07457043697838817     0.1433146339904142], theta_error=[1.288807051006605     0.1265583704687345].
+Porto Alegre:             eqConditions: starting with rU=[2.493652168952484     0.7117203041982965], q=[0.5115659092020743     0.3185421899138615].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.07457043690214649      0.143314633972693], theta_error=[1.288807050914505     0.1265583704978834].
+
+                                         Norm of      First-order   Trust-region
+ Iteration  Func-count     f(x)          step         optimality    radius
+     0          1         1.70314                          4.18               1
+Porto Alegre:             eqConditions: starting with rU=[3.741316481827726      1.136421235154137], q=[0.5113832491933977     0.3512337197861717].
+Porto Alegre:             eqConditions: finished with rU_error=[0.006340694211507625   -0.07141838231804809], theta_error=[0.2901765812378139    0.03017031780726365].
+Porto Alegre:             eqConditions: starting with rU=[3.741316482201858      1.136421235154137], q=[0.5113832491933977     0.3512337197861717].
+Porto Alegre:             eqConditions: finished with rU_error=[0.006340694235059008    -0.0714183823211596], theta_error=[0.2901765810506309    0.03017031779439461].
+Porto Alegre:             eqConditions: starting with rU=[3.741316481827726      1.136421235267779], q=[0.5113832491933977     0.3512337197861717].
+Porto Alegre:             eqConditions: finished with rU_error=[0.00634069420868455   -0.07141838237442122], theta_error=[0.2901765812376622    0.03017031778733381].
+Porto Alegre:             eqConditions: starting with rU=[3.741316481827726      1.136421235154137], q=[0.511383249244536     0.3512337197861717].
+Porto Alegre:             eqConditions: finished with rU_error=[0.006340694123842638   -0.07141838231729869], theta_error=[0.290176581286014    0.03017031780803858].
+Porto Alegre:             eqConditions: starting with rU=[3.741316481827726      1.136421235154137], q=[0.5113832491933977     0.3512337198212951].
+Porto Alegre:             eqConditions: finished with rU_error=[0.006340694211885989    -0.0714183823398864], theta_error=[0.2901765812392962    0.03017031784235491].
+     1          2       0.0902535       0.626985          0.543               1
+Porto Alegre:             eqConditions: starting with rU=[4.429009917502627      1.025369706211377], q=[0.5405754625578422     0.3230246772872317].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.005360259970318637  -0.006371057313135475], theta_error=[0.02719728262675258  -0.003731147029122361].
+Porto Alegre:             eqConditions: starting with rU=[4.429009917945528      1.025369706211377], q=[0.5405754625578422     0.3230246772872317].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.005360259950445645  -0.006371057317697826], theta_error=[0.02719728247504904  -0.003731147043466887].
+Porto Alegre:             eqConditions: starting with rU=[4.429009917502627      1.025369706313914], q=[0.5405754625578422     0.3230246772872317].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.005360259973760328  -0.006371057360071708], theta_error=[0.02719728262727084  -0.003731147045988203].
+Porto Alegre:             eqConditions: starting with rU=[4.429009917502627      1.025369706211377], q=[0.5405754626118997     0.3230246772872317].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.005360260069145362  -0.006371057312869466], theta_error=[0.02719728266386889  -0.003731147029852999].
+Porto Alegre:             eqConditions: starting with rU=[4.429009917502627      1.025369706211377], q=[0.5405754625578422     0.3230246773195342].
+Porto Alegre:             eqConditions: finished with rU_error=[-0.005360259970356829  -0.006371057332709151], theta_error=[0.02719728262780907  -0.003731146998919521].
+     2          3     0.000822936       0.221672         0.0415            1.57
+Porto Alegre:             eqConditions: starting with rU=[4.507809830597925      1.005661375706041], q=[0.5399241685246488     0.3262262670486669].
+Porto Alegre:             eqConditions: finished with rU_error=[3.294931926944855e-05 -0.0001758087987839829], theta_error=[0.0003432295385588091  0.0001119598039132086].
+Porto Alegre:             eqConditions: starting with rU=[4.507809831048705      1.005661375706041], q=[0.5399241685246488     0.3262262670486669].
+Porto Alegre:             eqConditions: finished with rU_error=[3.29493399613412e-05 -0.0001758088030290317], theta_error=[0.0003432293908540718  0.0001119597910579362].
+Porto Alegre:             eqConditions: starting with rU=[4.507809830597925      1.005661375806607], q=[0.5399241685246488     0.3262262670486669].
+Porto Alegre:             eqConditions: finished with rU_error=[3.294931705433157e-05 -0.0001758088431322857], theta_error=[0.0003432295394012463  0.0001119597883072476].
+Porto Alegre:             eqConditions: starting with rU=[4.507809830597925      1.005661375706041], q=[0.5399241685786411     0.3262262670486669].
+Porto Alegre:             eqConditions: finished with rU_error=[3.294922089569496e-05  -0.000175808797918009], theta_error=[0.0003432295748775349  0.0001119598050087767].
+Porto Alegre:             eqConditions: starting with rU=[4.507809830597925      1.005661375706041], q=[0.5399241685246488     0.3262262670812895].
+Porto Alegre:             eqConditions: finished with rU_error=[3.294931987607441e-05 -0.0001758088178811512], theta_error=[0.0003432295397318708  0.0001119598349248463].
+     3          4     1.62336e-07      0.0280427       0.000507            1.57
+Porto Alegre:             eqConditions: starting with rU=[4.508936142547979      1.005408178553891], q=[0.5399723988043537     0.3260999327392561].
+Porto Alegre:             eqConditions: finished with rU_error=[2.444556090885897e-06  1.265885784196286e-06], theta_error=[5.911641562938996e-07  3.784402133444331e-06].
+Porto Alegre:             eqConditions: starting with rU=[4.508936142998873      1.005408178553891], q=[0.5399723988043537     0.3260999327392561].
+Porto Alegre:             eqConditions: finished with rU_error=[2.444577968496731e-06  1.265882189738221e-06], theta_error=[5.910167386602438e-07  3.784391130912113e-06].
+Porto Alegre:             eqConditions: starting with rU=[4.508936142547979      1.005408178654432], q=[0.5399723988043537     0.3260999327392561].
+Porto Alegre:             eqConditions: finished with rU_error=[2.444553556912865e-06  1.265841300224224e-06], theta_error=[5.91164923235965e-07  3.784386037875009e-06].
+Porto Alegre:             eqConditions: starting with rU=[4.508936142547979      1.005408178553891], q=[0.5399723988583509     0.3260999327392561].
+Porto Alegre:             eqConditions: finished with rU_error=[2.444458330863597e-06   1.26588699567165e-06], theta_error=[5.912005902608541e-07  3.784404204676406e-06].
+Porto Alegre:             eqConditions: starting with rU=[4.508936142547979      1.005408178553891], q=[0.5399723988043537     0.3260999327718661].
+Porto Alegre:             eqConditions: finished with rU_error=[2.444556191250058e-06  1.265866424793316e-06], theta_error=[5.911652165568881e-07  3.784432373032942e-06].
+     4          5     2.22495e-11    0.000532753       2.08e-06            1.57
+Porto Alegre:             eqConditions: starting with rU=[4.508940655929889       1.00541487055476], q=[0.5399737719756442     0.3260970689619291].
+Porto Alegre:             eqConditions: finished with rU_error=[-3.345875665416997e-08 -1.833317342381235e-08], theta_error=[-6.852551082126013e-09 -5.181480133842342e-08].
+Porto Alegre:             eqConditions: starting with rU=[4.508940656380783       1.00541487055476], q=[0.5399737719756442     0.3260970689619291].
+Porto Alegre:             eqConditions: finished with rU_error=[-3.343754340079386e-08 -1.833713203502896e-08], theta_error=[-7.000104274013097e-09 -5.182683537885424e-08].
+Porto Alegre:             eqConditions: starting with rU=[4.508940655929889      1.005414870655301], q=[0.5399737719756442     0.3260970689619291].
+Porto Alegre:             eqConditions: finished with rU_error=[-3.345982957370097e-08 -1.837686625094648e-08], theta_error=[-6.851474165792126e-09 -5.182865592257002e-08].
+Porto Alegre:             eqConditions: starting with rU=[4.508940655929889       1.00541487055476], q=[0.5399737720296417     0.3260970689619291].
+Porto Alegre:             eqConditions: finished with rU_error=[-3.355807720595294e-08 -1.833281237928475e-08], theta_error=[-6.816444297896851e-09 -5.181513640373225e-08].
+Porto Alegre:             eqConditions: starting with rU=[4.508940655929889       1.00541487055476], q=[0.5399737719756442     0.3260970689945388].
+Porto Alegre:             eqConditions: finished with rU_error=[-3.345896093520651e-08 -1.835269647365578e-08], theta_error=[-6.851560985232652e-09 -5.178502548996988e-08].
+     5          6     4.18732e-15    1.13531e-05       3.09e-08            1.57
+Porto Alegre:             eqConditions: starting with rU=[4.508940596131039      1.005414773806782], q=[0.5399737526798296     0.3260971092284195].
+Porto Alegre:             eqConditions: finished with rU_error=[1.594762544243622e-09  8.627396574922841e-10], theta_error=[3.438314077897076e-10  2.442391400236943e-09].
+Porto Alegre:             eqConditions: starting with rU=[4.508940596581933      1.005414773806782], q=[0.5399737526798296     0.3260971092284195].
+Porto Alegre:             eqConditions: finished with rU_error=[1.617105560569598e-09  8.593949996082983e-10], theta_error=[1.965210216781088e-10  2.432095191906569e-09].
+Porto Alegre:             eqConditions: starting with rU=[4.508940596131039      1.005414773907323], q=[0.5399737526798296     0.3260971092284195].
+Porto Alegre:             eqConditions: finished with rU_error=[1.592886711421215e-09  8.186094024864587e-10], theta_error=[3.447353513763574e-10  2.427300138663213e-09].
+Porto Alegre:             eqConditions: starting with rU=[4.508940596131039      1.005414773806782], q=[0.5399737527338271     0.3260971092284195].
+Porto Alegre:             eqConditions: finished with rU_error=[1.496633927899893e-09  8.637492943108782e-10], theta_error=[3.801785553037007e-10  2.443893531989261e-09].
+Porto Alegre:             eqConditions: starting with rU=[4.508940596131039      1.005414773806782], q=[0.5399737526798296     0.3260971092610292].
+Porto Alegre:             eqConditions: finished with rU_error=[1.595488186012517e-09  8.437179843667764e-10], theta_error=[3.450193464260565e-10   2.47358689087207e-09].
+     6          7     9.37108e-18     1.6112e-07       1.39e-09            1.57
+Porto Alegre:             eqConditions: starting with rU=[4.508940598926977      1.005414778187865], q=[0.5399737535662976     0.3260971074036778].
+Porto Alegre:             eqConditions: finished with rU_error=[-1.172839603214015e-11  -6.38289421317495e-12], theta_error=[-2.41007214185629e-12 -1.814370875763416e-11].
+Porto Alegre:             eqConditions: starting with rU=[4.508940599377872      1.005414778187865], q=[0.5399737535662976     0.3260971074036778].
+Porto Alegre:             eqConditions: finished with rU_error=[9.664269384757063e-12 -1.024269558058677e-11], theta_error=[-1.499300683605043e-10 -2.989508640638405e-11].
+Porto Alegre:             eqConditions: starting with rU=[4.508940598926977      1.005414778288407], q=[0.5399737535662976     0.3260971074036778].
+Porto Alegre:             eqConditions: finished with rU_error=[-1.340794142379309e-11 -5.040923234389538e-11], theta_error=[-1.454725229166343e-12 -3.294142736365302e-11].
+Porto Alegre:             eqConditions: starting with rU=[4.508940598926977      1.005414778187865], q=[0.539973753620295     0.3260971074036778].
+Porto Alegre:             eqConditions: finished with rU_error=[-1.106075231405157e-10  -5.78137537843304e-12], theta_error=[3.378786139762724e-11 -1.779698610704372e-11].
+Porto Alegre:             eqConditions: starting with rU=[4.508940598926977      1.005414778187865], q=[0.5399737535662976     0.3260971074362875].
+Porto Alegre:             eqConditions: finished with rU_error=[-1.179145669993886e-11 -2.583178115855844e-11], theta_error=[-1.384226067102645e-12  1.184230491446669e-11].
+     7          8     5.13299e-22    7.30611e-09       1.06e-11            1.57
+
+<a href = "matlab: helpview('optim','eqn_solved','CSHelpWindow');">Equation solved</a>.
+
+fsolve completed because the vector of function values is near zero
+as measured by the value of the <a href = "matlab: helpview('optim','fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>, and
+the <a href = "matlab: helpview('optim','appears_regular','CSHelpWindow');">problem appears regular</a> as measured by the gradient.
+
+<<a href = "matlab: createExitMsg({'optim:fsolve:Exit1basic','fsolve'},{'optim:fsolve:Exit1detailed','1.062324e-11','1.000000e-10','5.132992e-22','1.000000e-05'},true,true);;">stopping criteria details</a>>
+Porto Alegre:       solveForEquilibrium: finished with fv = -1.1728e-11 -6.3829e-12 -2.4101e-12 -1.8144e-11, opt_rU=[4.5089      1.0054], opt_q=[0.53997      0.3261].
+
+Porto Alegre:             eqConditions: starting with rU=[4.508940598926977      1.005414778187865], q=[0.5399737535662976     0.3260971074036778].
+Porto Alegre:             eqConditions: finished with rU_error=[4.797940207801332e-06  3.162860433114645e-06], theta_error=[-1.007931062502188e-06  -7.08052292053285e-06].
+x = [1.510993203434194   -0.09193731682685952      1.085209055075825     -5.111154216394799     0.4281818966391581      1.249402220046062    -0.1499787511415227     0.5305047879056561    -0.1660697003721913     0.6170451083143512      1.795843134906112   -0.04685550959958954      2.033473893975585     -6.061582664820468     0.4491361511155916      1.496560392249315    -0.1173750782054109    -0.1166565567013862     -1.624487431425706     0.6277510000322303      1.489419645536887    -0.3804198434862455     0.3015601124237397      -18.8277631162024     0.4127285904261274      1.823219371929103   -0.09611907247909922      2.685149917204133     -8.063581637006303   -0.02991665600968543    0.09995627349135888     0.8887665979464645     -1.173607585120125     -1.129912626127392      6.237799211834197     -7.418528954964003      1.235344866273291     -11.49784710756196      17.56432997438386]
+PARAMETERS:
+ Common across regions: alpha=0.52497, coefRho2=2.4321, B_exp=0.30925, B_z_ref=0.32306, xi_cons=511.7311, xi_s=0.00060003, xi_rel_s=3.4396, xi_rel_inf=1.0152e-05, rhoGridMax2Min=42470912.9296
+ Recife: A=4.5312, T=1.9122, coefRho1_mu=1.0852, ut_unemp=-5.1112     0.42818
+ Salvador: A=3.4883, T=1.8607, coefRho1_mu=0.5305, ut_unemp=-0.16607     0.61705
+ Belo Horizonte: A=6.0246, T=1.9542, coefRho1_mu=2.0335, ut_unemp=-6.0616     0.44914
+ Rio de Janeiro: A=4.4663, T=1.8893, coefRho1_mu=-0.11666, ut_unemp=-1.6245     0.62775
+ Sao Paulo: A=4.4345, T=1.6836, coefRho1_mu=0.30156, ut_unemp=-18.8278     0.412729
+ Porto Alegre: A=6.1918, T=1.9084, coefRho1_mu=2.6851, ut_unemp=-8.0636   -0.029917
+RESIDUALS:
+Recife: -0.017994   -0.034481    0.084355    -0.14591    0.028319     0.20575    -0.11166     0.17089   -0.039314   -0.060509     0.02668    0.027576     -0.5138    -0.42827    0.013591    -0.14594     0.40832     0.86311   -0.063635    0.068565
+Salvador: -0.012528   -0.006268    0.071788   -0.079558    0.021827     0.21046    -0.12089     0.17404   -0.053829   -0.081076    0.022592   -0.012662    -0.78066    -0.58232    0.054614    0.073776     0.18047      0.1661    -0.13213    -0.13779
+Belo Horizonte: 0.05056    -0.02896   -0.054917   0.0099069   -0.026542     0.11643   -0.071109   -0.016509  -0.0098639   -0.074339    0.060252      0.0185     -0.4714    -0.14461    0.011416    -0.20563   0.0011359      0.7054   -0.087223     0.29477
+Rio de Janeiro: 0.015628    0.013018   -0.020425   0.0035422   -0.052308   -0.022815   -0.084777    -0.04718   -0.082718   -0.052248   0.0047433   -0.091579    -0.78633    -0.59266    0.094448    0.081336    -0.18491     0.19948    0.083145     0.10918
+Sao Paulo: -0.0043028    0.026809    0.035826   -0.084771  -0.0034576   -0.040325    0.023171 -0.00088424   -0.060472   0.0057863    0.077341    0.067398    -0.58701    -0.51546    0.014971   -0.035323    0.040591     0.15555    0.019008   -0.073508
+Porto Alegre: -0.05261   -0.023168     0.11084   -0.091781    0.031367     -0.1206   -0.080506    0.039507   -0.031185   -0.000621   0.0043623     0.10168    -0.56634    0.001894    0.053392    -0.20627   -0.049474     0.68561    0.061175    -0.18765
+Country target errors: -0.025818   0.0020399    0.066216
+Loss = 0.24525
+ModelEstimator:estimationObjFun finished successfully.
+
+
+
+NOW PROCEEDING TO runCounterfactuals
+
+

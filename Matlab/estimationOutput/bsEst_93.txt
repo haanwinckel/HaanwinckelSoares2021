@@ -1,0 +1,57 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+DRAWING INITIAL SAMPLE
+Current time:
+30-Mar-2020 12:46:51
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+STARTING ESTIMATION
+Current time:
+30-Mar-2020 12:46:51
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+*** SAMPLE #1/1 ***
+
+x = [1.566696665648196   -0.01757280635684886     0.6315309255540186     -4.232890802380131     0.3016655930448394      1.514682216068157     0.0580088489270596      1.754421541560044     0.8703427612678325      0.499368991610191      1.893519053315942   0.003937642559902204       1.97149396367282     -6.811023828514404    -0.1563851149559012      1.509080347621573   -0.08309889142654189    -0.5063474784942394     -1.916832267159649     0.5407799496439279      1.528703189392817    -0.3288360549480647    -0.2744963977687636     -18.86538500194821     0.1484355388197094      1.867398227696617    -0.0556488760024214       1.97029428610251     -7.192107425440216    -0.4508354820785889     0.1342419283620955     0.9010179200136184     -1.202924325648357     -1.174556392291442      6.199160943301402     -7.192761797132046      1.112493651694865     -11.56852700441887       16.6610526581012]
+PARAMETERS:
+ Common across regions: alpha=0.53351, coefRho2=2.4621, B_exp=0.30031, B_z_ref=0.30896, xi_cons=492.3358, xi_s=0.00075201, xi_rel_s=3.0419, xi_rel_inf=9.4592e-06, rhoGridMax2Min=17210887.1642
+ Recife: A=4.7908, T=1.9826, coefRho1_mu=0.63153, ut_unemp=-4.2329     0.30167
+ Salvador: A=4.548, T=2.0597, coefRho1_mu=1.7544, ut_unemp=0.87034     0.49937
+ Belo Horizonte: A=6.6427, T=2.0039, coefRho1_mu=1.9715, ut_unemp=-6.811    -0.15639
+ Rio de Janeiro: A=4.5226, T=1.9203, coefRho1_mu=-0.50635, ut_unemp=-1.9168     0.54078
+ Sao Paulo: A=4.6122, T=1.7198, coefRho1_mu=-0.2745, ut_unemp=-18.8654     0.148436
+ Porto Alegre: A=6.4714, T=1.9459, coefRho1_mu=1.9703, ut_unemp=-7.1921    -0.45084
+RESIDUALS:
+Recife: -0.24628     -0.1651    0.081568    -0.20855   0.0089347     0.28327    -0.24265     0.11405   -0.081007   0.0048046   -0.087371      0.0784    -0.48227    -0.60109   0.0002308   -0.051588     0.73921      1.0272    -0.16894    -0.03152
+Salvador: 0.12809   -0.054713   -0.027967    -0.31668    -0.10582     0.28519     -0.1952    0.074614   -0.075373    -0.19904   0.0035778    -0.14628    -0.59112    -0.57816  -0.0084639     0.10937     0.36743     0.36359    -0.29405    -0.21396
+Belo Horizonte: 0.10678   -0.067562    -0.16316    -0.11044    0.018158     0.16821   -0.088605    -0.13813    0.010272    -0.17106    0.084959    -0.10637    -0.31542    -0.11441   -0.008735    -0.14766  0.00038863      0.6646    -0.14849     0.30526
+Rio de Janeiro: 0.34038     0.12129   -0.058452    -0.12852   -0.061269    0.049811    -0.11328    -0.16072   -0.061238   -0.062883    0.047054    -0.18354    -0.77775    -0.61185    0.091581     0.13996    -0.24925    0.047279   0.0028498     0.16246
+Sao Paulo: -0.062564    -0.14718    0.033649      -0.136    0.018275    0.012898   -0.021127   -0.059571   -0.011478   -0.046268     0.12162   0.0075388    -0.52417    -0.64733   0.0097118    0.058648    0.045218    0.065138    -0.01648   -0.079287
+Porto Alegre: -0.23064    -0.17655     0.19174    -0.12216    0.088581   -0.078292   -0.094527   -0.031612    -0.10493    -0.01612   -0.096281     0.10001    -0.51315    -0.24097     0.03986    -0.15949    -0.08427     0.39176   -0.026805    -0.22927
+Country target errors: -0.016606     -0.2721    0.086241
+Loss = 0.4466
+Jacobian: 0.022301     -0.1511    0.007665  3.7685e-05    0.041622     0.02674   -0.053899   0.0022982   -0.006556     0.06449     0.18411    -0.17016    0.016925  -0.0014795    0.051787     0.11659    0.046519  -0.0051953   -0.015556    0.026074   0.0096872    -0.19748    0.029449    0.008356     0.07055     0.03109    -0.18128  -0.0017942   0.0038486    0.026801      0.7937      1.0443    -0.42285    0.090882   -0.069823   -0.064476   -0.022168   0.0034815  -0.0052189
+
+ModelEstimator:estimationObjFun finished successfully.
+ModelEstimator:estimationObjFun failed with parameters:
+PARAMETERS:
+ Common across regions: alpha=0.34846, coefRho2=0.90576, B_exp=0.45023, B_z_ref=0.2832, xi_cons=526.3796, xi_s=0.0007999, xi_rel_s=3.1072, xi_rel_inf=9.4277e-06, rhoGridMax2Min=17297115.7594
+ Recife: A=4.6896, T=2.1356, coefRho1_mu=0.62419, ut_unemp=-4.2329     0.26181
+ Salvador: A=4.433, T=2.1159, coefRho1_mu=1.7522, ut_unemp=0.87662     0.43761
+ Belo Horizonte: A=5.569, T=2.1816, coefRho1_mu=1.9553, ut_unemp=-6.8096    -0.20598
+ Rio de Janeiro: A=4.0448, T=1.8802, coefRho1_mu=-0.50137, ut_unemp=-1.9019     0.51581
+ Sao Paulo: A=4.5696, T=1.8696, coefRho1_mu=-0.3027, ut_unemp=-18.8734    0.0808776
+ Porto Alegre: A=6.2816, T=2.1252, coefRho1_mu=1.972, ut_unemp=-7.1958     -0.4765
+
